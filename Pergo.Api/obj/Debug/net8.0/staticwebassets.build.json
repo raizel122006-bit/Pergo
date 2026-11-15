@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FD/3fJm+4bV4hWVOdSsCpiCUT2POtHQkZCYAfmDzFqA=",
+  "Source": "Pergo.Api",
+  "BasePath": "_content/Pergo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
