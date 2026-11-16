@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pergo.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3884f51879ec1aa0977bb58319020ed2d3ad1d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pergo.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pergo.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

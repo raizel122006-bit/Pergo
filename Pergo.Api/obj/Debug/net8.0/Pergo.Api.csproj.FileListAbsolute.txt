@@ -121,3 +121,4 @@ C:\Users\raize\Downloads\Pergo\Pergo.Api\bin\Debug\net8.0\Microsoft.IdentityMode
 C:\Users\raize\Downloads\Pergo\Pergo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\raize\Downloads\Pergo\Pergo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\raize\Downloads\Pergo\Pergo.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raize\Downloads\Pergo\Pergo.Api\obj\Debug\net8.0\Pergo.Api.sourcelink.json
