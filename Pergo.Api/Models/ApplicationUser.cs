@@ -10,4 +10,6 @@ public class ApplicationUser : IdentityUser
     public string FullName { get; set; } = string.Empty;
 
     public DateTime DateJoined { get; set; } = DateTime.UtcNow;
+
+    public ICollection<Goal> Goals { get; set; } = new List<Goal>();
 }

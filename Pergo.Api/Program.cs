@@ -90,6 +90,7 @@ builder.Services.AddCors(options =>
               .AllowAnyMethod();
     });
 });
+builder.Services.AddScoped<IGoalService, GoalService>();
 
 var app = builder.Build();
 
